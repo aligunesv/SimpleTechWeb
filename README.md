@@ -1,8 +1,14 @@
-# Project Name
-
-![Project Preview Image](url/image.png)
+# SimpleTechWeb
 
 This project is a simple technical service website template built with React.js. The website consists of a single page that includes sections for Home, Work, About, Contact, and Testimonials. It features a header and footer with customizable images and text, making it a basic web template that can be used as-is or extended for further development.
+
+<img width="1720" alt="reactweb" src="https://github.com/aligunesv/simpletechweb/assets/82121296/488ebe98-d83a-4f69-9937-cdf0184401c6">
+
+
+### Mobile View
+---
+<img width="611" alt="reactwebmobile" src="https://github.com/aligunesv/simpletechweb/assets/82121296/f2a7e5d6-a222-46f6-9666-465f5a9bc73f">
+
 
 ## Features
 
@@ -62,4 +68,4 @@ Enjoy building your technical service website with SimpleTechWeb!
 
 ---
 
-You can visit my website too [imvora.dev](https://imvora.dev)git push -u origin main
+You can visit my website too [imvora.dev](https://imvora.dev)
