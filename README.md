@@ -1,16 +1,16 @@
-# SimpleTechWeb
+# SimpleTechWeb - React 🛠
 
 This project is a simple technical service website template built with React.js. The website consists of a single page that includes sections for Home, Work, About, Contact, and Testimonials. It features a header and footer with customizable images and text, making it a basic web template that can be used as-is or extended for further development.
 
 <img width="1720" alt="reactweb" src="https://github.com/aligunesv/simpletechweb/assets/82121296/488ebe98-d83a-4f69-9937-cdf0184401c6">
 
 
-### Mobile View
----
+## 📱 Mobile View
+
 <img width="611" alt="reactwebmobile" src="https://github.com/aligunesv/simpletechweb/assets/82121296/f2a7e5d6-a222-46f6-9666-465f5a9bc73f">
 
 
-## Features
+## ✨ Features
 
 - Simple and user-friendly design
 - Single-page navigation
@@ -18,7 +18,7 @@ This project is a simple technical service website template built with React.js.
 - Customizable images and text
 - Relative design for easy adaptation to different screen sizes
 
-## Installation and Usage
+## 🚀 Installation and Usage
 
 1. Clone the project to your local machine:
 
@@ -49,7 +49,7 @@ npm start
 [localhost:3000](http://localhost:3000)
 
 
-## Contribution
+## 👥 Contribution
 
 We welcome contributions to improve SimpleTechWeb. If you want to contribute, please follow these steps:
 
@@ -59,7 +59,7 @@ We welcome contributions to improve SimpleTechWeb. If you want to contribute, pl
 4. Push your branch to the forked repository: `git push origin my-new-feature`
 5. Create a pull request.
 
-## License
+## 📜 License
 
 SimpleTechWeb is licensed under the MIT License. For more details, please see the [LICENSE](https://github.com/aligunesv/SimpleTechWeb/blob/main/LICENSE) file.
 
